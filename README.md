@@ -1,6 +1,6 @@
 Here's a `README.md` file for your GitHub repository that explains how to use the `setup-ssh.sh` script:
 
-```markdown
+
 # Server Setup
 
 This repository contains a collection of server setup scripts, including configuration for SSH keys and other server-related utilities. The primary script is `setup-ssh.sh`, which automates the process of adding SSH public keys to a server.
